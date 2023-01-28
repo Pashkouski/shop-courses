@@ -16,6 +16,7 @@
     "@types/react-dom": "18.0.10",
     "classnames": "^2.3.2",
     "cross-env": "^7.0.3",
+    "date-fns": "^2.29.3",
     "eslint-config-next": "13.1.5",
     "eslint-plugin-typescript": "^0.14.0",
     "next": "13.1.5",
